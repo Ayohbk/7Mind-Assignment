@@ -27,6 +27,6 @@ click on check box "Automatically add necessary Appium vendor prefixes on start"
 - Launch Appium server,
 - Launch Emulator in Android studio and switch ON device,
 - Open Appium Inspector and select saved desired capabilities for the project, then click on "Start Session",
-- run "npm test" on VSCode terminal.
+- Open cloned repository on VSCode and run "npm test" on VSCode terminal.
 
 LOGIN Process with valid email and password is automated.
