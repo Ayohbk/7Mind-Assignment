@@ -23,7 +23,7 @@ click on check box "Automatically add necessary Appium vendor prefixes on start"
 
 **Steps to run this project**
 
-- Clone repository,
+- Clone repository https://github.com/Ayohbk/7Mind-Assignment,
 - Launch Appium server,
 - Launch Emulator in Android studio and switch ON device,
 - Open Appium Inspector and select saved desired capabilities for the project, then click on "Start Session",
