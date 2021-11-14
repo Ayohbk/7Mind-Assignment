@@ -1,4 +1,4 @@
-**7Mind App Login Automation using Appium, Mocha framework and JavaScript programming language.**
+**7Mind Android App Login Automation using Appium, Mocha framework and JavaScript programming language.**
 
 This project demonstrates 7Mind App Login Mobile Automation using Appium server, Appium Inspector, webdriverIO, Mocha framework, selenium standalone server, Android Emulator, VSCode on Windows OS.
 
