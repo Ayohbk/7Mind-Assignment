@@ -17,7 +17,7 @@ This project demonstrates 7Mind App Login Mobile Automation using Appium server,
 | platformName    | text        | Android                                      |
 | platformVersion | text        | 11                                           |
 | deviceName      | text        | pixel 2                                      |
-| app             | text        | "**path of 7Mind app apk on your computer**" |
+| app             | text        | "**path of 7Mind Meditation reinvented_v2.49.0_apkpure.com.apk on your computer**" |
 
 click on check box "Automatically add necessary Appium vendor prefixes on start" and then save.
 
