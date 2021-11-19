@@ -25,7 +25,7 @@ click on check box "Automatically add necessary Appium vendor prefixes on start"
 
 - Clone repository https://github.com/Ayohbk/7Mind-Assignment,
 - Launch Appium server,
-- Launch Emulator in Android studio and switch ON device,
+- Launch Emulator in Android studio and switch ON device, download and install 7mind app on the device ,
 - Open Appium Inspector and select saved desired capabilities for the project, then click on "Start Session",
 - Open cloned repository on VSCode and run "npm test" on VSCode terminal.
 
