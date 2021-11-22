@@ -30,3 +30,5 @@ click on check box "Automatically add necessary Appium vendor prefixes on start"
 - Open cloned repository on VSCode and run "npm test" on VSCode terminal.
 
 LOGIN Process with valid email and password is automated.
+
+This project was executed using cucumber framework in this [repository](https://github.com/Ayohbk/7MindCucumber)
